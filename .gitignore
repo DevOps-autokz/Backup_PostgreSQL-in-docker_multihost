@@ -1,0 +1,5 @@
+.env
+pg_server.list
+backup_postgres_cloud.sh
+cloud_backup_list.txt
+restore_postgre_command.txt
